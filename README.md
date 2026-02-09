@@ -96,10 +96,6 @@ delete()      // Clear vehicle sprites
 3. **Flash** - Upload the `.hex` file to your AVR microcontroller
 4. **Play** - Use keyboard input to move the frog across the screen
 
-## 👥 Authors
-- Andrea Marcosano
-- Ruth Dagnachew
-
 ## 📝 Version History
 - **Created**: August 30, 2023
 
