@@ -54,6 +54,7 @@ This is a classic **Frogger** game implementation written in **C** for Atmel AVR
 - **`Makefile`** - Build automation script
 
 ## 🎯 Game Mechanics
+<img width="1103" height="1920" alt="image" src="https://github.com/user-attachments/assets/701decd1-2930-4092-85b2-333ae2f057cb" />
 
 ### 🐸 Frog Movement
 - Initial position: row 3, column 9
@@ -80,6 +81,7 @@ delete()      // Clear vehicle sprites
 - **Clock**: 16 MHz
 - **Display**: Character LCD (4-line support)
 - **I/O**: Digital input/output pins
+<img width="160" height="99" alt="image" src="https://github.com/user-attachments/assets/ee687f5d-ec39-40c9-9d4d-7cb16be5fd88" />
 
 ### Build System
 - **Compiler**: GCC AVR toolchain
